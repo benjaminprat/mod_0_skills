@@ -1,0 +1,9 @@
+var food = "pizza";
+var is_delicious = true;
+food = "taco";
+var num2 = 5;
+var num7 = 8;
+var quotient = ( num2 / num7);
+var songs = ["Dont You Evah", "Finer Feelings", "Small Stakes",];
+var newsong = (songs.pop());
+var character= (food.length);
