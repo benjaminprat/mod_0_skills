@@ -2,13 +2,13 @@ Instance: DelFrisco's
 
 Values:
 + managerOnDuty: "Jason Borders"
-+ totalCapacity: 100
-+ currentCapacity: 25
-+ isOpen = open
-+ nightlyDinnerFeature: "Chilean Seabass"
++ closingManager: "Max White"
++ isSommelierCertified: yes
++ vacationRequest: March 31: ["Jen Brown"]
+
 
 Methods:
-+ isOpen : open
-+ seatGuest: currentCapacity: 26
++ isSommelierCertified : yes
++ addClosingManager: closingManager: "Bob"
 + changeManager: managerOnDuty: "Ben Prat"
-+ replaceDinnerFeature: nightlyDinnerFeature: "Porterhouse Steak"
++ addVacationrequest: vacationRequests: June 1: ["Collin March"]

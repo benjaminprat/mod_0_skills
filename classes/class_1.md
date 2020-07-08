@@ -1,14 +1,14 @@
-Class: Restaurant
+Class: ManagementTeam
 
 Attributes:
 + managerOnDuty (string)
-+ totalCapacity (integer)
-+ currentCapacity (integer)
-+ isOpen (Boolean)
-+ nightlyDinnerFeature (string)
++ isSommelierCertified (Boolean)
++ vacationRequest (array)
++ closingManager (string)
+
 
 Methods:
-+ isOpen: (changes the isOpen attribute)
-+ seatGuest: (changes the current capacity)
++ isSommelierCertified: (changes the + isSommelierCertified attribute)
++ addClosingManager (changes closingManager)
 + changeManager: (changes managerOnDuty)
-+ replaceDinnerFeature: (changes nightlyDinnerFeature)  
++ addVacationrequest: (updates vacationRequest)
