@@ -8,7 +8,7 @@ Attributes:
 + nightlyDinnerFeature (string)
 
 Methods:
-+ isOpen: (changes the isOpen attribute to true or false)
++ isOpen: (changes the isOpen attribute)
 + seatGuest: (changes the current capacity)
 + changeManager: (changes managerOnDuty)
 + replaceDinnerFeature: (changes nightlyDinnerFeature)  
