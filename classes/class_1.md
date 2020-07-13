@@ -8,7 +8,7 @@ Attributes:
 
 
 Methods:
-+ isSommelierCertified: (changes the isSommelierCertified attribute)
++ verifySommelierStatus: (changes the isSommelierCertified attribute)
 + addClosingManager (changes closingManager)
 + changeManager: (changes managerOnDuty)
 + addVacationrequest: (updates vacationRequest)
